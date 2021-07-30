@@ -1,0 +1,3 @@
+Cube root is a number which when multiplied 3 times it makes original value.for example cube root of 64 = 4 because 4 x 4 x 4=64.the greek mathematician 
+alexandria contrive calculating cube roots in the 1st century before common era.cube roots are used to solve cubic equation, it also can be used to solve 
+three dimensional objects with a certain volume.Thank you 
